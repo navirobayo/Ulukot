@@ -32,5 +32,4 @@ void AUlukotSpider::SetupPlayerInputComponent(UInputComponent* PlayerInputCompon
 
 }
 
-// Test of the environment
 
